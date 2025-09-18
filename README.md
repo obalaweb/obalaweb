@@ -30,10 +30,13 @@
 ### 💼 Notable Public Projects
 Most of my current projects are private SaaS applications for clients and my company (**Codprez Softwares**).  
 Highlights include:  
-- 🏥 A full Hospital Management System (Laravel, Livewire, Inertia, Stripe, multilingual)  
-- 🎟️ A Ticketing & Events platform with QR/barcode validation  
-- 🎬 A Streaming Website (Vue 3, Inertia.js, Laravel backend)  
-- 🎓 An Education Platform for schools with resource sharing & forums  
+| Name                                                                                                                    | Description                                                   | Tech           | ⭐   |
+| ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | -------------- | --- |
+| [go\_laravel\_wrapper\_for\_offline\_first\_app](https://github.com/obalaweb/go_laravel_wrapper_for_offline_first_app)  | ⚡ Go wrapper to power offline-first apps with Laravel backend | Go, Laravel    | —   |
+| [laravel-database-sync](https://github.com/obalaweb/laravel-database-sync)                                              | 🔄 Laravel package for seamless database synchronization      | PHP (Laravel)  | —   |
+| [awcodes/filament-curator](https://github.com/awcodes/filament-curator) (contribution)                                  | 📸 Media picker plugin for Filament Panels                    | PHP            | 401 |
+| [arcticline-platform/daraza-wordpress-woocommerce](https://github.com/arcticline-platform/daraza-wordpress-woocommerce) | 🛒 Custom WordPress & WooCommerce plugin for Daraza platform  | PHP, WordPress | —   |
+
 
 > 🧪 *Many of my current projects are private but reflect years of experience in building production-grade web apps.*
 
