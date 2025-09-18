@@ -28,17 +28,15 @@
 ---
 
 ### 💼 Notable Public Projects
+Most of my current projects are private SaaS applications for clients and my company (**Codprez Softwares**).  
+Highlights include:  
+- 🏥 A full Hospital Management System (Laravel, Livewire, Inertia, Stripe, multilingual)  
+- 🎟️ A Ticketing & Events platform with QR/barcode validation  
+- 🎬 A Streaming Website (Vue 3, Inertia.js, Laravel backend)  
+- 🎓 An Education Platform for schools with resource sharing & forums  
 
-Here are some public projects I’ve built or contributed to:
+> 🔒 Some repos are private but available upon request.
 
-| Name | Description | Tech | ⭐ |
-|------|-------------|------|----|
-| [portfolio-react](https://github.com/obalaweb/portfolio-react) | ⚡️ A minimal Gatsby portfolio template | JavaScript | 1 |
-| [calculator-with-voice-input](https://github.com/obalaweb/calculator-with-voice-input) | Smart calculator with voice input | JavaScript | 1 |
-| [game-math](https://github.com/obalaweb/game-math) | Fun educational math game | JavaScript | 1 |
-| [loading-animation](https://github.com/obalaweb/loading-animation) | 3 easy CSS loaders | CSS | 1 |
-| [portfolio](https://github.com/obalaweb/portfolio) | My portfolio site (old version) | HTML | 1 |
-| [React-App](https://github.com/obalaweb/React-App) | Simple ToDo app with React | HTML | 1 |
 
 > 🧪 *Many of my current projects are private but reflect years of experience in building production-grade web apps.*
 
