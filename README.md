@@ -35,9 +35,6 @@ Highlights include:
 - 🎬 A Streaming Website (Vue 3, Inertia.js, Laravel backend)  
 - 🎓 An Education Platform for schools with resource sharing & forums  
 
-> 🔒 Some repos are private but available upon request.
-
-
 > 🧪 *Many of my current projects are private but reflect years of experience in building production-grade web apps.*
 
 ---
