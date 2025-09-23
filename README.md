@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Obala Joseph Ivan</h1>
-<h3 align="center">Full-Stack Developer · Laravel | Go | Vue · Based in Gulu, Uganda 🇺🇬</h3>
+<h3 align="center">Full-Stack Developer · Laravel | Go | Python | Vue · Based in Gulu, Uganda 🇺🇬</h3>
 
 <p align="center">
   <a href="https://codprez.com" target="_blank">🌐 Website</a> •
-  <a href="mailto:info@codprez.com">📬 Email</a> •
+  <a href="mailto:jivanobala@gmail.com">📬 Email</a> •
   <a href="https://github.com/obalaweb">🐙 GitHub</a>
 </p>
 
@@ -54,9 +54,7 @@ DiffAI is an AI-powered Git assistant that understands your diffs and writes com
 Go, GPT-3, GitHub Actions
 
 **Live Demo:**  
-[diffai.vercel.app](https://diffai.vercel.app)
-
-> *Add additional pinned projects in the same format.*
+> * Coming soon!*
 
 ---
 
@@ -88,14 +86,6 @@ Go, GPT-3, GitHub Actions
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=obalaweb&theme=radical&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 🔥 Contribution Streaks
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=obalaweb&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
